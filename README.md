@@ -19,7 +19,5 @@ Cypress 是为现代网络而构建的下一代前端测试工具。我们解决
 
 Cypress 经常和 Selenium 相提并论；然而，Cypress 在结构和基础上与之有所不同。Cypress 不受 Selenium 限制。
 
-
-
-
+这能够使你编写更快、更简单和更可靠的测试。
 
