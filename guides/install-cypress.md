@@ -136,4 +136,4 @@ Cypress 会为你打开。
 > CYPRESS_BINARY_VERSION=/local/path/to/cypress.zip npm install cypress
 ```
 
-以上所有情况，二进制文件从自定义位置安装的记录不会保存到 `package.json` 文件中。
+以上所有情况，二进制文件从自定义位置安装的记录不会保存到 `package.json` 文件中。 每次重复安装都必须使用
